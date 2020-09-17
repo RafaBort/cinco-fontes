@@ -1,3 +1,9 @@
+
+body {
+    background-color: black;  
+    text-align: center;
+}
+
 #fonte {
     color: purple;
 }
@@ -28,9 +34,4 @@
     font-family: 'Amatic SC', cursive;
     font-size: 18px;
     color:pink;
-}
-
-body {
-    color: black;
-    text-align: center;
 }
