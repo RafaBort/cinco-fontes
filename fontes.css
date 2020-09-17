@@ -1,0 +1,23 @@
+#fonte1  {
+    font-family: 'Noto Serif TC', serif;     
+}
+
+#fonte2  {
+    font-family: 'Oregano', cursive;
+}
+
+#fonte3  {
+    font-family: 'Play', sans-serif;
+}
+
+#fonte4  {
+    font-family: 'VT323', monospace;
+}
+
+#fonte5  {
+    font-family: 'Amatic SC', cursive;
+}
+
+body {
+    color: black;
+}
