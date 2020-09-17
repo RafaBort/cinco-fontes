@@ -1,21 +1,33 @@
+#fonte {
+    background-color: purple;
+}
+
 #fonte1  {
-    font-family: 'Noto Serif TC', serif;     
+    font-family: 'Noto Serif TC', serif;   
+    background-color: aqua;  
 }
 
 #fonte2  {
     font-family: 'Oregano', cursive;
+    background-color: blue;
 }
 
 #fonte3  {
     font-family: 'Play', sans-serif;
+    font-size: 18px;
+    background-color:green;
 }
 
 #fonte4  {
     font-family: 'VT323', monospace;
+    font-size: 18px;
+    background-color:yellow
 }
 
 #fonte5  {
     font-family: 'Amatic SC', cursive;
+    font-size: 18px;
+    background-color:pink;
 }
 
 body {
